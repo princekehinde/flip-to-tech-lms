@@ -1,4 +1,4 @@
-const server = require('./src/routes/index');
+const server = require('./backend/routes/index');
 const dotenv = require('dotenv').config
 
 
